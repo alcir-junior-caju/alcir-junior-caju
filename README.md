@@ -40,27 +40,45 @@ Abaixo mais informações sobre tecnologias que trabalho em cada empresa:
         <img alt="Insomnia" src="https://img.shields.io/badge/%20Insomnia-Application-%235849be?style=for-the-badge&logo=insomnia&logoColor=white">
         <img alt="VS Code" src="https://img.shields.io/badge/%20VS%20Code-Application-%23007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white">
         <hr />
-        <h5>Projetos:</h5>
       </p>
-      <div style="text-align:center;">
-        <a src="https://www.usinadosatos.org.br/" target="_blank" style="margin:10px 20px;">
-            <img src="https://www.usinadosatos.org.br/storage/settings/May2020/MtKX7bJWawJiiGhfQem6.png" width="150px" />
-        </a>
-        <a src="https://www.ibiaculoteamentos.com.br/" target="_blank" style="margin:10px 20px;">
-            <img src="https://www.ibiaculoteamentos.com.br/templates/novo-ibiacu/images/logo.png" height="100px" />
-        </a>
-        <a src="http://www.portalpepper.com.br/" target="_blank" style="margin:10px 20px;">
-            <img src="http://www.portalpepper.com.br/templates/portalpepper/images/logo.png" width="150px" />
-        </a>
-        <a src="https://www.trusttattoo.com.br/" target="_blank" style="margin:10px 20px;">
-            <img src="https://www.trusttattoo.com.br/logo.png" width="150px" />
-        </a>
-        <br />
-        <br />
-        <a href="http://www.cajucomunica.com.br/#clients" target="">Veja mais projetos clicando aqui</a>
-        <br />
-        <br />
-      </div>
+      <table>
+        <tbody align="center">
+          <tr>
+            <td colspan="4"><h5>Projetos:</h5></td>
+          </tr>
+          <tr>
+          <td width="25%">
+            <img src="https://www.usinadosatos.org.br/storage/settings/May2020/MtKX7bJWawJiiGhfQem6.png" width="150px" /><br />
+            <a src="https://www.usinadosatos.org.br/" target="_blank">
+              Laravel
+            </a>
+          </td>
+          <td width="25%">
+            <img src="https://www.ibiaculoteamentos.com.br/templates/novo-ibiacu/images/logo.png" height="100px" /><br />
+            <a src="https://www.ibiaculoteamentos.com.br/" target="_blank">
+              Joomla
+            </a>
+          </td>
+          <td width="25%">
+            <img src="http://www.portalpepper.com.br/templates/portalpepper/images/logo.png" width="150px" /><br />
+            <a src="http://www.portalpepper.com.br/" target="_blank">
+              Joomla
+            </a>
+          </td>
+          <td width="25%">
+            <img src="https://www.trusttattoo.com.br/logo.png" width="150px" /><br />
+            <a src="https://www.trusttattoo.com.br/" target="_blank">
+              Grav
+            </a>
+          </td>
+          </tr>
+          <tr>
+          <td colspan="4">
+            <a href="http://www.cajucomunica.com.br/#clients" target="">Veja mais projetos clicando aqui</a>
+          </td>
+          </tr>
+        </tbody>
+      </table>
     </td>
   </tr>
 </table>
