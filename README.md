@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/alcirjuniorcaju/" target="_blank">
+<a href="http://www.cajucomunica.com.br/" target="_blank">
     <img alt="Caju" src="https://img.shields.io/badge/Site-%23f08700?style=for-the-badge">
 </a>
 <a href="https://www.linkedin.com/in/alcirjuniorcaju/" target="_blank">
@@ -72,7 +72,7 @@ Abaixo mais informações sobre tecnologias que trabalho em cada empresa:
         </td>
         </tr>
         <tr>
-        <td colspan="4">
+        <td colspan="4" align="center">
           <a href="http://www.cajucomunica.com.br/#clients" target="_blank">Veja mais projetos clicando aqui</a>
         </td>
         </tr>
@@ -84,7 +84,7 @@ Abaixo mais informações sobre tecnologias que trabalho em cada empresa:
 <table>
   <tr>
     <td width="20%" align="center" vertical-align="middle">
-      <img alt="IdeasNetStudio" src="http://projetos.cajucomunicacao.com.br/IdeasNetStudio/images/logo-ideasnetstudio.png" />
+      <img alt="IdeasNetStudio" src="http://projetos.cajucomunicacao.com.br/IdeasNetStudio/images/logo-ideasnetstudio-black.png" />
     </td>
     <td width="80%">
       <h3>IdeasNetStudio</h3>
