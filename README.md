@@ -14,8 +14,8 @@ Abaixo mais informações sobre tecnologias que trabalho em cada empresa:
 <!-- Info Header -->
 <table>
   <tr>
-    <td width="20%" style="text-align:center;">
-      <img alt="Caju" src="https://www.cajucomunica.com.br/logo-caju.png" width="50%" />
+    <td width="20%" align="center" vertical-align="middle">
+      <img alt="Caju" src="https://www.cajucomunica.com.br/logo-caju.png" />
     </td>
     <td width="80%">
       <h3>Caju</h3>
@@ -67,8 +67,8 @@ Abaixo mais informações sobre tecnologias que trabalho em cada empresa:
 <!-- Info Header -->
 <table>
   <tr>
-    <td width="20%" style="text-align:center;">
-      <img alt="IdeasNetStudio" src="http://projetos.cajucomunicacao.com.br/IdeasNetStudio/images/logo-ideasnetstudio.png" width="50%" />
+    <td width="20%" align="center" vertical-align="middle">
+      <img alt="IdeasNetStudio" src="http://projetos.cajucomunicacao.com.br/IdeasNetStudio/images/logo-ideasnetstudio.png" />
     </td>
     <td width="80%">
       <h3>IdeasNetStudio</h3>
