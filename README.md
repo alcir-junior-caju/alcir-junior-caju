@@ -6,20 +6,20 @@
       </a>
     </td>
     <td>
-      <a href="https://github-readme-streak-stats.herokuapp.com/?user=alcir-junior-caju" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=alcir-junior-caju" alt="GitHub stats">
+      <a href="https://github-readme-streak-stats.herokuapp.com/?user=alcir-junior-caju&hide_border=true" target="_blank">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=alcir-junior-caju&hide_border=true" alt="GitHub stats">
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github-readme-stats.vercel.app/api/wakatime?username=@alcirjuniorcaju&layout=compact" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@alcirjuniorcaju&layout=compact" alt="Wakatime stats">
+      <a href="https://github-readme-stats.vercel.app/api/wakatime?username=@alcirjuniorcaju&layout=compact&hide_border=true" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@alcirjuniorcaju&layout=compact&hide_border=true" alt="Wakatime stats">
       </a>
     </td>
     <td>
-      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alcir-junior-caju&layout=compact" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcir-junior-caju&layout=compact" alt="GitHub stats">
+      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alcir-junior-caju&layout=compact&hide_border=true" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcir-junior-caju&layout=compact&hide_border=true" alt="GitHub stats">
       </a>
     </td>
   </tr>
