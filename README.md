@@ -1,3 +1,30 @@
+<table>
+  <tr>
+    <td>
+      <a href="https://github-readme-stats.vercel.app/api?username=alcir-junior-caju&theme=chartreuse&show_icons=true&hide_border=true" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=alcir-junior-caju&theme=chartreuse&show_icons=true&hide_border=true" alt="GitHub stats">
+      </a>
+    </td>
+    <td>
+      <a href="https://github-readme-streak-stats.herokuapp.com/?user=alcir-junior-caju" target="_blank">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=alcir-junior-caju" alt="GitHub stats">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github-readme-stats.vercel.app/api/wakatime?username=@alcirjuniorcaju&layout=compact" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@alcirjuniorcaju&layout=compact" alt="Wakatime stats">
+      </a>
+    </td>
+    <td>
+      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alcir-junior-caju&layout=compact" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcir-junior-caju&layout=compact" alt="GitHub stats">
+      </a>
+    </td>
+  </tr>
+</table>
+<br /><br />
 <a href="http://www.cajucomunica.com.br/" target="_blank">
     <img alt="Caju" src="https://img.shields.io/badge/Site-%23f08700?style=for-the-badge">
 </a>
@@ -11,6 +38,7 @@
 Atualmente tenho trabalhado em duas empresas, na <a href="https://cajucomunica.com.br">**Caju**</a> onde sou o dono e desenvolver, como muitos hoje em dia fazem, meu cargoseria o faz tudo, desde iniciar a conversa com o Cliente, definir o projeto, desenvolver o Backend / Frontend e por fim o deploy.
 E também trabalho na **IdeasNetStudio**, empresa localizada em Nova York, onde sou Frontend trabalhando com ReactJS.
 Abaixo mais informações sobre tecnologias que trabalho em cada empresa:
+
 <!-- Info Header -->
 <table>
   <tr>
@@ -46,25 +74,19 @@ Abaixo mais informações sobre tecnologias que trabalho em cada empresa:
           <td colspan="4"><h5>Projetos:</h5></td>
         </tr>
         <tr align="center">
-        <td width="25%">
+        <td width="33%">
           <img src="https://www.usinadosatos.org.br/storage/settings/May2020/MtKX7bJWawJiiGhfQem6.png" width="150px" /><br />
           <a href="https://www.usinadosatos.org.br/" target="_blank">
             Laravel
           </a>
         </td>
-        <td width="25%">
+        <td width="33%">
           <img src="https://www.ibiaculoteamentos.com.br/templates/novo-ibiacu/images/logo.png" height="100px" /><br />
           <a href="https://www.ibiaculoteamentos.com.br/" target="_blank">
             Joomla
           </a>
         </td>
-        <td width="25%">
-          <img src="http://www.portalpepper.com.br/templates/portalpepper/images/logo.png" width="150px" /><br />
-          <a href="http://www.portalpepper.com.br/" target="_blank">
-            Joomla
-          </a>
-        </td>
-        <td width="25%">
+        <td width="33%">
           <img src="https://www.trusttattoo.com.br/logo.png" width="150px" /><br />
           <a href="https://www.trusttattoo.com.br/" target="_blank">
             Grav
