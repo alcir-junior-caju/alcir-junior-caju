@@ -1,5 +1,3 @@
-# Estatísticas do GitHub e Wakatime
-
 <table>
   <tr>
     <td width="50%" align="center" vertical-align="middle">
