@@ -6,8 +6,8 @@
       <!-- </a> -->
     </td>
     <td width="50%" align="center" vertical-align="middle">
-      <!-- <a href="https://github-readme-streak-stats.herokuapp.com/?user=alcir-junior-caju&hide_border=true" target="_blank"> -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=alcir-junior-caju&hide_border=true" alt="GitHub stats">
+      <!-- <a href="https://github-readme-streak-stats.vercel.app/?user=alcir-junior-caju&hide_border=true" target="_blank"> -->
+        <img src="https://github-readme-streak-stats.vercel.app/?user=alcir-junior-caju&hide_border=true" alt="GitHub stats">
       <!-- </a> -->
     </td>
   </tr>
@@ -20,8 +20,8 @@
       <!-- </a> -->
     </td>
     <td width="50%" align="center" vertical-align="middle">
-      <!-- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alcir-junior-caju&layout=compact&hide_border=true" target="_blank"> -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcir-junior-caju&layout=compact&hide_border=true" alt="GitHub stats">
+      <!-- <a href="https://nirzak-streak-stats.vercel.app/api/top-langs/?username=alcir-junior-caju&layout=compact&hide_border=true" target="_blank"> -->
+        <img src="https://nirzak-streak-stats.vercel.app/api/top-langs/?username=alcir-junior-caju&layout=compact&hide_border=true" alt="GitHub stats">
       <!-- </a> -->
     </td>
   </tr>
