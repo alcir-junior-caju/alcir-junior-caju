@@ -15,13 +15,13 @@
 <table>
   <tr>
     <td width="50%" align="center" vertical-align="middle">
-      <!-- <a href="https://github-readme-stats.vercel.app/api/wakatime?username=alcirjuniorcaju&layout=compact&hide_border=true" target="_blank"> -->
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alcirjuniorcaju&layout=compact&hide_border=true" alt="Wakatime stats">
+      <!-- <a href="https://github-readme-stats.vercel.app/?user=alcirjuniorcaju&layout=compact&hide_border=true" target="_blank"> -->
+        <img src="https://github-readme-stats.vercel.app/?user=alcirjuniorcaju&layout=compact&hide_border=true" alt="Wakatime stats">
       <!-- </a> -->
     </td>
     <td width="50%" align="center" vertical-align="middle">
-      <!-- <a href="https://nirzak-streak-stats.vercel.app/api/top-langs/?username=alcir-junior-caju&layout=compact&hide_border=true" target="_blank"> -->
-        <img src="https://nirzak-streak-stats.vercel.app/api/top-langs/?username=alcir-junior-caju&layout=compact&hide_border=true" alt="GitHub stats">
+      <!-- <a href="https://nirzak-streak-stats.vercel.app/?user=alcir-junior-caju&layout=compact&hide_border=true" target="_blank"> -->
+        <img src="https://nirzak-streak-stats.vercel.app/?user=alcir-junior-caju&layout=compact&hide_border=true" alt="GitHub stats">
       <!-- </a> -->
     </td>
   </tr>
