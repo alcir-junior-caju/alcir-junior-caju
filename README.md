@@ -19,7 +19,8 @@
 </table>
 <br /><br />
 <a href="https://www.linkedin.com/in/alcirjuniorcaju/" target="_blank">
-    <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <img alt="Linkedin" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=alcir-junior-caju&repo=study-tcc-puc-minas" />
+<img alt="Linkedin" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=alcir-junior-caju&repo=uber-go-style-guide-pt-br" />
