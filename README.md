@@ -23,4 +23,4 @@
 </a>
 
 <img alt="Linkedin" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=alcir-junior-caju&repo=study-tcc-puc-minas" />
-<img alt="Linkedin" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=alcir-junior-caju&repo=uber-go-style-guide-pt-br" />
+<img alt="Linkedin" src="study-mba-em-engenharia-de-software-com-ia" />
