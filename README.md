@@ -21,5 +21,3 @@
 <a href="https://www.linkedin.com/in/alcirjuniorcaju/" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=alcir-junior-caju&repo=https%3A%2F%2Fgithub.com%2Falcir-junior-caju%2Fstudy-tcc-puc-minas)
