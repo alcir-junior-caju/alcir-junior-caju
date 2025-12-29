@@ -5,6 +5,7 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=alcir-junior-caju&repo=study-tcc-puc-minas" />
   <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=alcir-junior-caju&repo=study-mba-em-engenharia-de-software-com-ia" />
   <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=alcir-junior-caju&repo=study-full-cycle-3-0" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=%40alcirjuniorcaju" />
 </div>
 <br /><br />
 <a href="https://www.linkedin.com/in/alcirjuniorcaju/" target="_blank">
