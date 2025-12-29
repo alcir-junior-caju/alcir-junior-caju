@@ -20,8 +20,8 @@
       <!-- </a> -->
     </td>
     <td width="50%" align="center" vertical-align="middle">
-      <!-- <a href="https://github-readme-stats-fast.vercel.app/api/streak?username=alcir-junior-caju"> -->
-        <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=alcir-junior-caju" alt="GitHub stats">
+      <!-- <a href="https://github-readme-stats-fast.vercel.app/api/wakatime?username=alcir-junior-caju"> -->
+        <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=alcir-junior-caju" alt="GitHub stats">
       <!-- </a> -->
     </td>
   </tr>
