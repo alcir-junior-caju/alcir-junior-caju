@@ -22,5 +22,8 @@
     <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<img alt="Linkedin" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=alcir-junior-caju&repo=study-tcc-puc-minas" />
-<img alt="Linkedin" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=alcir-junior-caju&repo=study-mba-em-engenharia-de-software-com-ia" />
+<div style="display:grid;grid-template-columns:auto auto auto;gap:10;">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=alcir-junior-caju&repo=study-tcc-puc-minas" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=alcir-junior-caju&repo=study-mba-em-engenharia-de-software-com-ia" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=alcir-junior-caju&repo=study-full-cycle-3-0" />
+</div>
