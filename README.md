@@ -1,17 +1,3 @@
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: none;
-}
-blockquote {
-    border-left: none;
-    padding-left: 10px;
-}
-</style>
-
-
 | Estatísticas | Streak |
 | :--- | :--- |
 | <img alt="alcir-junior-caju's GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=alcir-junior-caju&show_icons=true" /> | <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=alcir-junior-caju" alt="GitHub stats"> |
