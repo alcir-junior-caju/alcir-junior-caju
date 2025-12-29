@@ -1,27 +1,35 @@
 <table>
   <tr>
-    <td width="50%" align="center" vertical-align="middle">
+    <td width="33.3%" align="center" vertical-align="middle">
       <!-- <a href="https://github-readme-stats-fast.vercel.app/api?username=alcir-junior-caju&show_icons=true"> -->
         <img  alt="alcir-junior-caju's GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=alcir-junior-caju&show_icons=true" />
       <!-- </a> -->
     </td>
-    <td width="50%" align="center" vertical-align="middle">
+    <td width="33.3%" align="center" vertical-align="middle">
       <!-- <a href="https://github-readme-stats-fast.vercel.app/api/streak?username=alcir-junior-caju"> -->
         <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=alcir-junior-caju" alt="GitHub stats">
+      <!-- </a> -->
+    </td>
+    <td width="33.3%" align="center" vertical-align="middle">
+      <!-- <a href="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alcir-junior-caju&layout=compact"> -->
+        <img  alt="alcir-junior-caju's GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alcir-junior-caju&layout=compact" />
       <!-- </a> -->
     </td>
   </tr>
 </table>
 <table>
   <tr>
-    <td width="50%" align="center" vertical-align="middle">
-      <!-- <a href="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alcir-junior-caju&layout=compact"> -->
-        <img  alt="alcir-junior-caju's GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alcir-junior-caju&layout=compact" />
+    <td width="33.3%" align="center" vertical-align="middle">
+      ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=alcir-junior-caju&repo=https%3A%2F%2Fgithub.com%2Falcir-junior-caju%2Fstudy-tcc-puc-minas)
+    </td>
+    <td width="33.3%" align="center" vertical-align="middle">
+      <!-- <a href="https://github-readme-stats-fast.vercel.app/api/streak?username=alcir-junior-caju"> -->
+        <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=alcir-junior-caju" alt="GitHub stats">
       <!-- </a> -->
     </td>
-    <td width="50%" align="center" vertical-align="middle">
-      <!-- <a href="https://github-readme-stats-fast.vercel.app/api/wakatime?username=alcir-junior-caju"> -->
-        <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=alcir-junior-caju" alt="GitHub stats">
+    <td width="33.3%" align="center" vertical-align="middle">
+      <!-- <a href="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alcir-junior-caju&layout=compact"> -->
+        <img  alt="alcir-junior-caju's GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alcir-junior-caju&layout=compact" />
       <!-- </a> -->
     </td>
   </tr>
