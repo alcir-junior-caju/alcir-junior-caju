@@ -1,9 +1,7 @@
 <table>
   <tr>
     <td width="50%" align="center" vertical-align="middle">
-      <!-- <a href="https://github-readme-stats.vercel.app/api?username=alcir-junior-caju&theme=chartreuse&show_icons=true&hide_border=true" target="_blank"> -->
-        <img src="https://github-readme-stats.vercel.app/api?username=alcir-junior-caju&theme=chartreuse&show_icons=true&hide_border=true" alt="GitHub stats">
-      <!-- </a> -->
+      [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alcir-junior-caju?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
     </td>
     <td width="50%" align="center" vertical-align="middle">
       <!-- <a href="https://github-readme-streak-stats.vercel.app/?user=alcir-junior-caju&hide_border=true" target="_blank"> -->
